@@ -18,7 +18,6 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 
----
 
 ## ❓ Why Reconcile?
 
