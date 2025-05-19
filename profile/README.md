@@ -10,13 +10,13 @@
 
 ## 📚 Table of Contents
 
-- [Why Reconcile?](#-why-reconcile)
-- [Architecture](#-architecture)
-- [Repositories](#-repositories)
-  - [`state-manager`](#-state-manager)
-  - [`controlloop`](#-controlloop)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Why Reconcile?](#why-reconcile)
+- [Architecture](#architecture)
+- [Repositories](#repositories)
+  - [`state-manager`](#state-manager)
+  - [`controlloop`](#controlloop)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## ❓ Why Reconcile?
