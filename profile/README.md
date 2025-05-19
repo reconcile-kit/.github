@@ -71,7 +71,7 @@ High‑performance, durable store for all resource specs **and** status.
 | APIs | REST with CRUD|
 | Extras | Event stream (Redis `STREAMS`), schema migrations, optimistic locking |
 
-➡️ **Repo:** [`state-manager`](./state-manager)
+➡️ **Repo:** [`state-manager`](https://github.com/reconcile-kit/state-manager)
 
 ### `controlloop` ⚙️
 
@@ -83,7 +83,7 @@ Operator/agent that implements the reconcile loop using the state stored in **st
 | Extensibility | Plug‑in reconcilers per resource kind (Go interfaces) |
 
 
-➡️ **Repo:** [`controlloop`](./controlloop)
+➡️ **Repo:** [`controlloop`](https://github.com/reconcile-kit/controlloop)
 
 ---
 
