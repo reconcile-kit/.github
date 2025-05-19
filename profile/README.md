@@ -28,7 +28,7 @@ The _reconciliation‑loop_ pattern continuously drives the _actual_ system stat
 - **Predictability** ✅ — idempotent operations with built‑in retry/back‑off.
 - **Extensibility** 🧩 — add new resource types by writing plug‑in reconcilers.
 
----
+
 
 ## 🏗️ Architecture
 
@@ -56,7 +56,7 @@ The _reconciliation‑loop_ pattern continuously drives the _actual_ system stat
 2. **controlloop** streams change events into its work‑queue.
 3. Each item is processed until system reality matches the spec; status is persisted back.
 
----
+
 
 ## 📦 Repositories
 
@@ -84,7 +84,7 @@ Operator/agent that implements the reconcile loop using the state stored in **st
 
 ➡️ **Repo:** [`controlloop`](https://github.com/reconcile-kit/controlloop)
 
----
+
 
 ## 🤝 Contributing
 
@@ -95,7 +95,7 @@ PRs are welcome! Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) to get start
 3. Commit with conventional commits.
 4. Open a pull request.
 
----
+
 
 ## 📄 License
 
