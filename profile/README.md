@@ -8,16 +8,6 @@
   <img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License" />
 </p>
 
-## 📚 Table of Contents
-
-- [Why Reconcile?](#why-reconcile)
-- [Architecture](#architecture)
-- [Repositories](#repositories)
-  - [`state-manager`](#state-manager)
-  - [`controlloop`](#controlloop)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 ## ❓ Why Reconcile?
 
