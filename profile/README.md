@@ -13,8 +13,8 @@
 - [Why Reconcile?](#-why-reconcile)
 - [Architecture](#-architecture)
 - [Repositories](#-repositories)
-  - [`state-manager`](#state-manager)
-  - [`controlloop`](#controlloop)
+  - [`state-manager`](#-state-manager)
+  - [`controlloop`](#-controlloop)
 - [Contributing](#-contributing)
 - [License](#-license)
 
